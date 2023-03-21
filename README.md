@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ZWawAh3.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://gifyu.com/image/SIKuZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
